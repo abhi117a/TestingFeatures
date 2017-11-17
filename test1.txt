@@ -1,0 +1,4 @@
+Checking the command line for Git Hub.
+Testing How to open a new/existing file from terminal via Atom.
+Just type atom and <filename>.txt
+Let's save it and see what happens.
